@@ -1,0 +1,16 @@
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\bin\Debug\WolframAlpha.NET.XML
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\bin\Debug\WolframAlpha.NET.dll
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\bin\Debug\WolframAlpha.NET.pdb
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\bin\Debug\RestSharp.dll
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\bin\Debug\RestSharp.xml
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\obj\Debug\WolframAlpha.NET.csprojResolveAssemblyReference.cache
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\obj\Debug\WolframAlpha.NET.dll
+C:\Users\Vulisha\Documents\Visual Studio 2013\Projects\CalorieCounter\WolframAlpha.NET\obj\Debug\WolframAlpha.NET.pdb
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\bin\Debug\WolframAlpha.NET.XML
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\bin\Debug\WolframAlpha.NET.dll
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\bin\Debug\WolframAlpha.NET.pdb
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\bin\Debug\RestSharp.dll
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\bin\Debug\RestSharp.xml
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\obj\Debug\WolframAlpha.NET.csprojResolveAssemblyReference.cache
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\obj\Debug\WolframAlpha.NET.dll
+C:\Users\Vule\Desktop\CalorieCounter\CalorieCounter\WolframAlpha.NET\obj\Debug\WolframAlpha.NET.pdb
